@@ -1,6 +1,6 @@
 # random_name
 
-A new Flutter project.
+Using the math library, the name entered is selected randomly.
 
 ## Getting Started
 
